@@ -87,7 +87,7 @@ There is no published fundraising amount, financial model, signed laboratory par
 
 ## Open documentation
 
-Original project documentation is shared under [CC BY 4.0](LICENSE). Third-party papers and datasets keep their own licenses. Future software and contributed datasets will need explicit licenses; none are supplied in this initial release.
+Copyright © 2026 rgamingbc. Original project documentation is shared under [CC BY 4.0](LICENSE). Third-party papers and datasets keep their own licenses. Future software and contributed datasets will need explicit licenses; none are supplied in this initial release.
 
 Translations are introductions to the same proposal; the English whitepaper contains the detailed research framing. Corrections are welcome through [GitHub Issues](https://github.com/rgamingbc/Dopamine-OS/issues).
 
